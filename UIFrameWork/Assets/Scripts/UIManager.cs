@@ -18,7 +18,7 @@ public class UIManager : MonoBehaviour
     /// <summary>
     /// 当前展示的UI
     /// </summary>
-    Dictionary<string, BaseUI> showUIs;
+    Dictionary<string, BaseUI> showUIs;  
 
     /// <summary>
     /// UI根节点
